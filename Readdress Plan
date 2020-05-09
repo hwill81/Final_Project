@@ -1,0 +1,22 @@
+1) Make sure to import all nedded modules
+2) create class for Indevidual, Population, and Landscape
+
+Indevidual:
+-function that initializes indevidual and phenotype
+-make a list of possible phenotypes
+
+Population
+-establish population size
+- create list of populations by phenotypes
+- sort each indevidual into a population
+-print the frequencies of each phenotype/size of each pop
+
+Landscape
+-make a dispersal matrix
+-randomly select whether to migrate or stay in current pop
+- append populations after migration
+
+
+4)Initialize parameters for scenario= which pop, pop size, migration freq
+5)write function to gather data and print in string and plot
+
